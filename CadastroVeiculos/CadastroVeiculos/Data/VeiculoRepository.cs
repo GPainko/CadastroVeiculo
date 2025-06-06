@@ -71,5 +71,17 @@ namespace CadastroVeiculos.Data
                 $"{v.Nome};{v.Modelo};{v.Marca};{v.Renavam};{v.AnoFabricacao};{v.AnoModelo};{v.FotoPath}");
             File.WriteAllLines(filePath, linhas, Encoding.UTF8);
         }
+
+        public static void Excluir(string renavam)
+        {
+            var lista = Listar();
+            var item = lista.FirstOrDefault(v => v.Renavam == renavam);
+            if (item != null)
+            {
+                lista.Remove(item);
+                SalvarTodos(lista);
+            }
+        }
+
     }
 }
