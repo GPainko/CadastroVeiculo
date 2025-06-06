@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\data\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\data\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\pages\\veiculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\pages\\veiculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|c:\\users\\guipa\\onedrive\\documentos\\cadastroveiculos\\cadastroveiculos\\cadastroveiculos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6EDB32B-8068-4085-9295-4CEBC4F0C8AE}|CadastroVeiculos\\CadastroVeiculos.csproj|solutionrelative:cadastroveiculos\\cadastroveiculos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:29:29.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:29:13.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:25:30.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:25:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:08:26.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:57:26.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T14:56:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Data\\VeiculoRepository.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Data\\VeiculoRepository.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Data\\VeiculoRepository.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Data\\VeiculoRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:50:49.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastroVeiculos.csproj",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\CadastroVeiculos.csproj",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\CadastroVeiculos.csproj",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\CadastroVeiculos.csproj",
+              "RelativeToolTip": "CadastroVeiculos\\CadastroVeiculos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T14:48:28.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Veiculo.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Veiculo.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:49:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml",
+              "RelativeToolTip": "CadastroVeiculos\\Pages\\Veiculos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:07:55.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\guipa\\OneDrive\\Documentos\\CadastroVeiculos\\CadastroVeiculos\\Program.cs",
+              "RelativeToolTip": "CadastroVeiculos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:32:12.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

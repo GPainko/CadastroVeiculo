@@ -1,0 +1,45 @@
+﻿@page
+@model CadastroVeiculos.Pages.Veiculos.IndexModel
+@{
+    ViewData["Title"] = "Lista de Veículos";
+}
+
+<h2>Lista de Veículos</h2>
+
+<a asp-page="Create" class="btn btn-success mb-3">Cadastrar Novo</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Foto</th>
+            <th>Nome</th>
+            <th>Modelo</th>
+            <th>Marca</th>
+            <th>Renavam</th>
+            <th>Ano</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var veiculo in Model.Veiculos)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(veiculo.FotoPath))
+                    {
+                        <img src="@veiculo.FotoPath" width="100" />
+                    }
+                </td>
+                <td>@veiculo.Nome</td>
+                <td>@veiculo.Modelo</td>
+                <td>@veiculo.Marca</td>
+                <td>@veiculo.Renavam</td>
+                <td>@veiculo.AnoFabricacao / @veiculo.AnoModelo</td>
+                <td>
+                    <a asp-page="Details" asp-route-renavam="@veiculo.Renavam" class="btn btn-info btn-sm">Detalhes</a>
+                    <a asp-page="Edit" asp-route-renavam="@veiculo.Renavam" class="btn btn-warning btn-sm">Editar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
